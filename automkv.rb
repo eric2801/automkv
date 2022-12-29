@@ -7,7 +7,7 @@
 MAKE_MKVCON_PATH = "/Applications/MakeMKV.app/Contents/MacOS/makemkvcon"
 POLL_SEC = 20
 VOLUMES_PATH = "/Volumes"
-OUTPUT_PATH = "/Volumes/Bristlesnare/automkv_output"
+OUTPUT_PATH = "~/automkv_output"    // Set this to something appropriate for your system.
 
 # Globals
 DrivesInUse = {}
